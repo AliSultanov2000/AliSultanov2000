@@ -6,11 +6,8 @@
 ### 3) Working with time series 📈
 
 ### Languages and Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60"     height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-<div>
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=097CDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
+![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=keras&logoColor=F88C00)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=E9D54D)
