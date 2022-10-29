@@ -14,6 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FKeras&psig=AOvVaw00TKnHoV8zSHPxvP2Zc6dm&ust=1667138274324000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDw8ZbMhfsCFQAAAAAdAAAAABAE" title="Git" **alt="Git" width="60" height="60"/>
 </div>
   
