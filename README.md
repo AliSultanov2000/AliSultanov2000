@@ -6,3 +6,4 @@
 ### 3) Working with time series 📈
 
 ### Languages and Tools: Python, MySQL, PostgreSQL, Linux, Docker, Git, AirFlow, TensorFlow, Keras, Word2vec, OpenCV, NumPy, Pandas, Sklearn
+<a href="tg://msg?text=<?php echo urlencode( '<TEXT>' ); ?>&to=<+79160226188>">Telegram</a>
