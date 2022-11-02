@@ -4,16 +4,3 @@
 ### 1) Computer Vision (CV) 🎥 📷
 ### 2) Natural language processing (NLP) 📝
 ### 3) Working with time series 📈
-
-### Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FKeras&psig=AOvVaw00TKnHoV8zSHPxvP2Zc6dm&ust=1667138274324000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDw8ZbMhfsCFQAAAAAdAAAAABAE" title="Git" **alt="Git" width="60" height="60"/>
-</div>
-  
