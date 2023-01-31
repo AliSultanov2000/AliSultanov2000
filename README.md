@@ -7,4 +7,4 @@
 ### 4) Working with time series 📈
 ### 5) Recommender systems 
 
-### Languages and Tools: Python, MySQL, PostgreSQL, Linux, Docker, Git, AirFlow, TensorFlow, Keras, Word2vec, OpenCV, NumPy, Pandas, Sklearn
+### Languages and Tools: Python, MySQL,Linux, Docker, Git, AirFlow, MlFlow, TensorFlow, Keras, Word2vec, OpenCV, NumPy, Pandas, Sklearn
