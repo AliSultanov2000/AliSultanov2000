@@ -6,4 +6,4 @@
 ### 3) Working with time series 📈
 ### 4) Recommender systems 
 
-### Languages and Tools: Python, SQL, Hadoop, Linux, Docker, Git, AirFlow, MlFlow, TensorFlow, Keras, PyTorch, Word2vec, OpenCV, NumPy, Pandas, Sklearn, CatBoost, ADABoost, LightGBM 
+### Languages and Tools: Python, SQL, Hadoop, Linux, Docker, Git, AirFlow, MlFlow, TensorFlow, Keras, PyTorch, Word2vec, OpenCV, NumPy, Pandas, Sklearn, CatBoost, XGBoost, LightGBM 
