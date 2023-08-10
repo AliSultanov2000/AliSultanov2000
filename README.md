@@ -5,4 +5,4 @@
 ### 2) Natural language processing 📝
 ### 4) Recommender systems 
 
-### Languages & Tools: Python, SQL, Docker, Git, AirFlow, MlFlow, Linux, bash, Hadoop, TensorFlow, Keras, PyTorch, Word2vec, OpenCV, NumPy, Pandas, Sklearn, CatBoost, XGBoost, LightGBM, Optuna
+### Languages & Tools: Python, SQL, Docker, Git, AirFlow, MlFlow, Linux, bash, Hadoop, TensorFlow, Keras, PyTorch, Word2vec, OpenCV, NumPy, Pandas, SciPy, Sklearn, CatBoost, XGBoost, LightGBM
