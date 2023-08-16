@@ -4,4 +4,4 @@
 ### Computer Vision (object detection) 🎥 📷
 
 
-### Languages & Tools: Python, SQL, Docker, Git, AirFlow, MlFlow, Linux, bash, Flask, Hadoop, TensorFlow, Keras, PyTorch, Word2vec, OpenCV, NumPy, Pandas, SciPy, Sklearn, CatBoost, XGBoost, LightGBM
+### Languages & Tools: Python, SQL, Docker, Git, AirFlow, MlFlow, Linux, bash, Flask, Hadoop, TensorFlow, Keras, PyTorch, Word2vec, GloVe, OpenCV, NumPy, Pandas, SciPy, Sklearn, CatBoost, XGBoost, LightGBM
