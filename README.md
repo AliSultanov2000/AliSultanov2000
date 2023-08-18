@@ -2,7 +2,7 @@
 
 ### What am I doing now:
 
-### Computer Vision (object detection with YOLOv8) 🎥 📷
+### CV (object detection with YOLOv8) 🎥 📷
 
 ### NLP (text generation) 📝
 
