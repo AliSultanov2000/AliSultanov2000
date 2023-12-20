@@ -2,7 +2,7 @@
 
 ### What am I working on now:
 
-### NLP / LLM (Text generation) 📝
+### NLP / LLM 📝
 
 ### Recommendation systems 🖥️
 
