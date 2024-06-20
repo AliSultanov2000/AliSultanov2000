@@ -6,4 +6,4 @@
 
 ### Recommendation systems 🖥️
 
-### Languages & Tools: Python, PostgreSQL, PySpark, Git, AirFlow, MlFlow, TensorFlow, Keras, PyTorch, nltk, Word2vec, fasttext, GloVe, NumPy, Pandas, SciPy, Sklearn, CatBoost, XGBoost, LightGBM, Linux, bash, Django, Docker, k8s
+### Languages & Tools: Python, PostgreSQL, Git, AirFlow, MlFlow, PyTorch, nltk, Word2vec, fasttext, GloVe, NumPy, Pandas, Sklearn, CatBoost, XGBoost, LightGBM, Docker
