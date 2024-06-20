@@ -4,6 +4,4 @@
 
 ### NLP / LLM 📝
 
-### Recommendation systems 🖥️
-
 ### Languages & Tools: Python, PostgreSQL, Git, AirFlow, MlFlow, PyTorch, nltk, Word2vec, fasttext, GloVe, NumPy, Pandas, Sklearn, CatBoost, XGBoost, LightGBM, Docker
