@@ -4,4 +4,4 @@
 
 ### NLP / LLM 📝
 
-### Languages & Tools: Python, PostgreSQL, Hadoop, PySpark, Git, Docker, AirFlow, MlFlow, PyTorch
+### Languages & Tools: Python, PostgreSQL, Hadoop, PySpark, GreenPlum, MongoDB, Clickhouse, Git, Docker, AirFlow, MlFlow, PyTorch
